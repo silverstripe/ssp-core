@@ -1,7 +1,7 @@
 {
     "name": "silverstripe/ssp-core",
     "description": "Core requirements for SilverStripe sites running on SilverStripe Platform",
-    "type": "silverstripe-module",
+    "type": "silverstripe-vendormodule",
     "require": {
         "silverstripe/crontask": "^2",
         "silverstripe/dynamodb": "^4"
