@@ -3,8 +3,9 @@
     "description": "Core requirements for SilverStripe sites running on SilverStripe Platform",
     "type": "silverstripe-module",
     "require": {
-        "silverstripe/crontask": "^2",
-        "silverstripe/dynamodb": "^4"
+        "silverstripe/framework": "^3",
+        "silverstripe/crontask": "^1",
+        "silverstripe/dynamodb": "^3"
     },
     "license": "BSD-3-Clause",
     "authors": [

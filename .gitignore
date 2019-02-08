@@ -1,3 +1,5 @@
 /vendor/
-/resources/
+/crontask/
+/silverstripe-dynamodb/
+/framework/
 composer.lock
