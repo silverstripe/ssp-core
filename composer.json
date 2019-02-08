@@ -1,0 +1,16 @@
+{
+    "name": "silverstripe/ssp-core",
+    "description": "Core requirements for SilverStripe sites running on SilverStripe Platform",
+    "type": "silverstripe-module",
+    "require": {
+        "silverstripe/crontask": "^2",
+        "silverstripe/dynamodb": "^4"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Sam Minnee",
+            "email": "sam@silverstripe.com"
+        }
+    ]
+}
