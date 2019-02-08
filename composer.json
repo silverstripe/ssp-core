@@ -6,6 +6,11 @@
         "silverstripe/crontask": "^2",
         "silverstripe/dynamodb": "^4"
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.x-dev"
+        }
+    },
     "license": "BSD-3-Clause",
     "authors": [
         {
