@@ -1,6 +1,6 @@
 {
-    "name": "silverstripe/ssp-core",
-    "description": "Core requirements for SilverStripe sites running on SilverStripe Platform",
+    "name": "silverstripeltd/cloud-core",
+    "description": "Core requirements for Silverstripe CMS sites running on SilverStripe Cloud",
     "type": "silverstripe-vendormodule",
     "require": {
         "silverstripe/crontask": "^2",
@@ -16,6 +16,10 @@
         {
             "name": "Sam Minnee",
             "email": "sam@silverstripe.com"
+        },
+        {
+            "name": "Silverstripe Ltd.",
+            "homepage": "https://silverstripe.com"
         }
     ]
 }
